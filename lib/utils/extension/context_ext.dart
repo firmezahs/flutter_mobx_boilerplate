@@ -1,5 +1,5 @@
+import 'package:blueberry/utils/locale/base_language.dart';
 import 'package:flutter/material.dart';
-import 'package:tc_boiler_plate/locale/base_language.dart';
 
 extension ContextExt on BuildContext {
   Languages get translate => Languages.of(this);

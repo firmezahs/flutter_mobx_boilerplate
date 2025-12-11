@@ -1,6 +1,6 @@
+import 'package:blueberry/utils/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:tc_boiler_plate/utils/colors.dart';
 
 class AppTheme {
   static ThemeData get lightTheme {

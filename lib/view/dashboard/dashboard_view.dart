@@ -1,8 +1,8 @@
+import 'package:blueberry/main.dart';
+import 'package:blueberry/view/dashboard/model/dashboard_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:tc_boiler_plate/main.dart';
-import 'package:tc_boiler_plate/model/dashboard_model.dart';
 
 class DashboardView extends StatefulWidget {
   const DashboardView({Key? key}) : super(key: key);

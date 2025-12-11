@@ -1,8 +1,8 @@
+import 'package:blueberry/utils/locale/base_language.dart';
+import 'package:blueberry/utils/locale/language_en.dart';
+import 'package:blueberry/utils/locale/language_vi.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:tc_boiler_plate/locale/base_language.dart';
-import 'package:tc_boiler_plate/locale/language_en.dart';
-import 'package:tc_boiler_plate/locale/language_vi.dart';
 
 class AppLocalizations extends LocalizationsDelegate<Languages> {
   const AppLocalizations();

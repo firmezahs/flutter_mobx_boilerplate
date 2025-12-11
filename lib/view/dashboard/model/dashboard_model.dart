@@ -1,7 +1,7 @@
+import 'package:blueberry/view/home/home_screen.dart';
+import 'package:blueberry/view/orders/order_screen.dart';
+import 'package:blueberry/view/setting/setting_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:tc_boiler_plate/view/home/home_screen.dart';
-import 'package:tc_boiler_plate/view/orders/order_screen.dart';
-import 'package:tc_boiler_plate/view/setting/setting_screen.dart';
 
 class DashboardModel {
   String? screenName;

@@ -1,7 +1,7 @@
+import 'package:blueberry/main.dart';
+import 'package:blueberry/utils/extension/context_ext.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:tc_boiler_plate/main.dart';
-import 'package:tc_boiler_plate/utils/extension/context_ext.dart';
 
 class LanguagesScreen extends StatefulWidget {
   @override

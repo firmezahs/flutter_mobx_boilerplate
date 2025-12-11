@@ -1,8 +1,8 @@
+import 'package:blueberry/utils/colors.dart';
+import 'package:blueberry/utils/constant.dart';
+import 'package:blueberry/view/auth/sign_in_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:tc_boiler_plate/utils/colors.dart';
-import 'package:tc_boiler_plate/utils/constant.dart';
-import 'package:tc_boiler_plate/view/auth/sign_in_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);

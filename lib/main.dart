@@ -1,17 +1,18 @@
+import 'package:blueberry/controller/app/app_store.dart';
+import 'package:blueberry/utils/app_theme.dart';
+import 'package:blueberry/utils/colors.dart';
+import 'package:blueberry/utils/constant.dart';
+import 'package:blueberry/utils/functions.dart';
+import 'package:blueberry/utils/locale/applocalizations.dart';
+import 'package:blueberry/utils/locale/base_language.dart';
+import 'package:blueberry/view/auth/controller/auth_store.dart';
+import 'package:blueberry/view/dashboard/controller/dashboard_store.dart';
+import 'package:blueberry/view/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
-import 'package:tc_boiler_plate/controller/app/app_store.dart';
-import 'package:tc_boiler_plate/controller/auth/auth_store.dart';
-import 'package:tc_boiler_plate/controller/dashboard/dashboard_store.dart';
-import 'package:tc_boiler_plate/locale/applocalizations.dart';
-import 'package:tc_boiler_plate/locale/base_language.dart';
-import 'package:tc_boiler_plate/utils/colors.dart';
-import 'package:tc_boiler_plate/utils/functions.dart';
-import 'package:tc_boiler_plate/utils/imports.dart';
-import 'package:tc_boiler_plate/view/splash_screen.dart';
 
 //region App languages
 Languages? languages;

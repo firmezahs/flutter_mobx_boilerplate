@@ -1,9 +1,9 @@
+import 'package:blueberry/main.dart';
+import 'package:blueberry/utils/constant.dart';
+import 'package:blueberry/utils/locale/base_language.dart';
 import 'package:flutter/material.dart';
 import 'package:mobx/mobx.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:tc_boiler_plate/locale/base_language.dart';
-import 'package:tc_boiler_plate/main.dart';
-import 'package:tc_boiler_plate/utils/constant.dart';
 
 part 'app_store.g.dart';
 

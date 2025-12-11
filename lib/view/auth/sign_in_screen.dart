@@ -1,9 +1,9 @@
+import 'package:blueberry/main.dart';
+import 'package:blueberry/utils/colors.dart';
+import 'package:blueberry/view/auth/sign_up_screen.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:tc_boiler_plate/main.dart';
-import 'package:tc_boiler_plate/utils/colors.dart';
-import 'package:tc_boiler_plate/view/auth/sign_up_screen.dart';
 
 class SignInScreen extends StatelessWidget {
   const SignInScreen({Key? key}) : super(key: key);

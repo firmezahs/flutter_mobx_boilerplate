@@ -1,9 +1,9 @@
+import 'package:blueberry/main.dart';
+import 'package:blueberry/utils/extension/context_ext.dart';
+import 'package:blueberry/view/setting/languages_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:tc_boiler_plate/main.dart';
-import 'package:tc_boiler_plate/utils/extension/context_ext.dart';
-import 'package:tc_boiler_plate/view/setting/languages_screen.dart';
 
 class SettingScreen extends StatefulWidget {
   const SettingScreen({Key? key}) : super(key: key);
